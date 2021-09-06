@@ -1,4 +1,5 @@
 # from https://discourse.processing.org/t/trying-to-understand-the-substrate-algorithm/3031/4
+# by j.tarbell ported to Python by solub
 
 num, n_agents = 0, 100
 
